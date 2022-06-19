@@ -1,1 +1,2 @@
-DEMO PROJECT FOR IMPLEMENTATION OF KAFKA USING SPRINGBOOT
+# KAFKA USING SPRINGBOOT
+## Basic Consumer and Producer implementation using Post API.
